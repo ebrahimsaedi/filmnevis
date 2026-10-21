@@ -1,6 +1,8 @@
 # Filmnevis 🎬
 **An open-source, RTL-first screenwriting editor built for Persian writers.**
 
+[English](README.md) | [فارسی](README.fa.md)
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Qt](https://img.shields.io/badge/PySide6-Qt-green.svg)](https://doc.qt.io/qtforpython-6/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
